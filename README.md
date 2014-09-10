@@ -51,5 +51,37 @@ Chapter 4 has two tests which we can execute, they are:
 We can execute both of these tests by running the following commands: ```ruby product_review_test.rb``` and ```ruby product_validation_test.rb```
 
 ### Chapter 5
+In Chapter 5, we have joined our 3 tests under a single runner called ```run_tests.rb```. To run all of the tests all we have to do is execute the following command ```ruby run_tests.rb```.
+
 ### Chapter 6
+Chapter 6 comes in two parts. In part 1, we create a simple Cucumber project that looks very similar to the Test::Unit project we have been working with. About half way through the chapter, we refactor our code, and start using part 2 code. To execute the tests please follow these steps:
+  
+#### Part 1
+To execute all of the tests in the test suite, just run the following command from Part 1 directory:
+```cucumber features``` 
+
+To execute all of the tests in a single feature file, add the filename to the end of the command like so:
+```cucumber features/product_review.feature```
+
+To execute a single test in a given file, add a line on which the test is located, like so:
+```cucumber features/product_review.feature:15```
+
+#### Part 2                                   
+In the second part of this chapter, we introduce the concept of Cucumber Tags and Profiles. We can execute individual profiles by running the following command ```cucumber -p PROFILE_NAME features``` where the ```PROFILE_NAME``` refers to an existing profile in the ```config/cucumber.yml``` file.
+
+The following commands demonstrate how to execute each profile:
+
+* Default Profile: ```cucumber features```
+* Continuous Integration Profile: ```cucumber -p ci features```
+* Mobile Website Profile: ```cucumber -p mobile features```
+* API Endpoint Test Profile: ```cucumber -p api features```
+
 ### Chapter 7
+In Chapter 7, we have a test written in in Test::Unit, RSpec, and Cucumber. To run the test in each of the testing frameworks, run the following command:
+
+* Test::Unit: ```ruby test_unit_example.rb```
+* Cucumber: ```cucumber cucumber_example.feature```
+* RSpec: ```rspec rspec_example.rb```
+
+
+
