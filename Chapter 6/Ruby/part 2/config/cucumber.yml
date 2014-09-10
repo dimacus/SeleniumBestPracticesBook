@@ -1,0 +1,13 @@
+<%
+  config_requires = "--require config --require step_definitions/common_steps "
+
+  desktop_requires = config_requires + "--require step_definitions/desktop"
+  mobile_requires = config_requires + "--require step_definitions/mobile"
+  api_requires = "--require config --require step_definitions/api"
+%>
+
+default: <%= desktop_requires %> --format pretty 
+ci: <%= desktop_requires %> --format progress
+mobile: <%= mobile_requires %> --format progress --tags @mobile
+api: <%= api_requires %> --format progress --tags @api                 
+

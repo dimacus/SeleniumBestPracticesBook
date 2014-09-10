@@ -1,0 +1,6 @@
+<%
+  common_requires = "--require config --require step_definitions"
+%>
+
+default: <%= common_requires %> --format pretty 
+ci: <%= common_requires %> --format progress
