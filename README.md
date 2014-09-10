@@ -1,7 +1,12 @@
 SeleniumBestPracticesBook
 =========================
 
-              
+
+# Installing The Project
+To get started, you need to have GIT installed on your computer. Once GIT is installed, run the following command in your terminal to clone the project:
+
+```git clone https://github.com/dimacus/SeleniumBestPracticesBook.git```              
+After the project is cloned, follow the instructions on how how to execute the tests in a given programing language:
 
 ## Running Tests With Ruby
 
