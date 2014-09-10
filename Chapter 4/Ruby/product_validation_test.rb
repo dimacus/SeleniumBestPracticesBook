@@ -5,7 +5,6 @@ require File.join(File.dirname(__FILE__), 'test_data')
 
 class ProductValidationTests < Test::Unit::TestCase  
   def setup  
-    require 'debug'
     @selenium = Selenium::WebDriver.for(:firefox)         
   end
 

@@ -1,7 +1,7 @@
 Feature: users can add products to their shopping cart.
 
 Scenario: Anonymous user adds product to the cart
-  Given an anonymous user is on a product page
+  Given I am on a product page
   When they add the item to their cart
 
   Then will see "$68.99" in the grand total section

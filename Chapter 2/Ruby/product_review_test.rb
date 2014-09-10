@@ -9,9 +9,7 @@ class ProductReview < Test::Unit::TestCase
                 
      selenium.find_element(:css, '.special-item a[href*="our-love-is-special"].more-info').click     
      assert_equal("http://awful-valentine.com/our-love-is-special/", selenium.current_url)                    
-     # assert_equal("Our love is special!!", selenium.find_element(:css, ".category-title").text)     
-     
-     assert_equal("Our love is special!", selenium.find_element(:css, ".category-title").text)
+     assert_equal("Our love is special!!", selenium.find_element(:css, ".category-title").text)          
      
      selenium.find_element(:id, "author").send_keys("Dima")
      selenium.find_element(:id, "email").send_keys("dima@selenium.com")
@@ -20,7 +18,7 @@ class ProductReview < Test::Unit::TestCase
      selenium.find_element(:id, "comment").clear
      selenium.find_element(:id, "comment").send_keys("This is a comment for product #{ENV['USERNAME'] || ENV['USER']} aa")
      selenium.find_element(:id, "submit").click
-     
+        
      review_id = selenium.current_url.split("#").last
      review = selenium.find_element(:id, review_id)           
      
