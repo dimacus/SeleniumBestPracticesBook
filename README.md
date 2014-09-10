@@ -2,7 +2,13 @@ SeleniumBestPracticesBook
 =========================
 This project is created to accompany the Selenium Design Patterns and Best Practices book. You can purchase this book here: https://www.packtpub.com/web-development/selenium-design-patterns-and-best-practices
 
+Bugs: If you find any defects in the provided code, please submit defect report here: https://github.com/dimacus/SeleniumBestPracticesBook/issues
 
+Adding More Examples: If you wish to see an example added in another language, please file a defect with the above link.
+
+Contributing: If you wish to contribute to the code examples, please fork this project and send me a Pull Request.
+
+Let's get started with the code examples:
 
 
 # Installing The Project
