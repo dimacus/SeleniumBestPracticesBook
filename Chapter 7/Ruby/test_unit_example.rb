@@ -13,10 +13,10 @@ class ShoppingCartOnContactUsPageTest < Test::Unit::TestCase
   def test_cart_on_contact_page    
     @selenium.get "http://awful-valentine.com/"
     
-    page = HomePage.new(@selenium)
+    page = HomePage.new(@selenium)  
     page.special_items.first.add_to_cart
+    
     @selenium.get "http://awful-valentine.com/contact-us"
-
     page = ContactUsPage.new(@selenium)
     assert_equal("You have 1 item ($5.77) in your shopping cart.", 
                   page.sidebar.cart.summary)

@@ -1,0 +1,5 @@
+<%                                               
+  common_requires = "--require step_definitions/cucumber_steps.rb --require page_objects/requires.rb"
+%>
+
+default: <%= common_requires %> --format pretty

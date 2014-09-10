@@ -1,6 +1,5 @@
 require 'rubygems'
 require 'selenium-webdriver'        
-require File.expand_path(File.join(File.dirname(__FILE__), "requires"))
 
 Given(/^I am on the home page$/) do
   @selenium = Selenium::WebDriver.for(:firefox)
