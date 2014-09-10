@@ -1,5 +1,8 @@
 SeleniumBestPracticesBook
 =========================
+This project is created to accompany the Selenium Design Patterns and Best Practices book. You can purchase this book here: https://www.packtpub.com/web-development/selenium-design-patterns-and-best-practices
+
+
 
 
 # Installing The Project
