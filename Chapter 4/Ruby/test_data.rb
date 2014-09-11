@@ -42,10 +42,6 @@ class TestData
     JSON.parse(json_string)
   end 
   
-  def self.get_base_url
-    "http://awful-valentine.com"
-  end  
-  
   def self.get_environment
      ENV['environment'] || "test"
   end  

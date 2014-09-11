@@ -37,7 +37,7 @@ class ProductReview < Test::Unit::TestCase
    def test_adding_a_duplicate_review
      review_form_info = TestData.get_comment_form_values
      generate_new_product_review(review_form_info)
-     sleep 10
+     sleep 2
      generate_new_product_review(review_form_info)
      error = @selenium.find_element(:id, "error-page").text
      assert_equal("Duplicate comment detected; it looks as though you\u2019ve already said that!", error)      
