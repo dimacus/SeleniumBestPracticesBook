@@ -32,9 +32,9 @@ class ProductReview < Test::Unit::TestCase
    
    def test_adding_a_duplicate_review
      unique_comment = generate_unique_comment  
-     sleep 10
+     sleep 2
      generate_new_product_review(unique_comment)
-     sleep 10
+     sleep 2
      generate_new_product_review(unique_comment)
      
      error = @selenium.find_element(:id, "error-page").text
