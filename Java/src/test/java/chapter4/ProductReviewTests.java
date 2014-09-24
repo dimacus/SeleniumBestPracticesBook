@@ -5,6 +5,7 @@ import org.junit.Test;
 import org.junit.After;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -31,6 +32,7 @@ public class ProductReviewTests {
 
   @Test
   public void testAddNewReview() throws Exception {
+
     HashMap<String, String> overwrite = new HashMap<String, String>();
     overwrite.put("name", "Dima");
     Map<String, String> reviewFormInfo = TestData.getCommentFormValues(overwrite);
