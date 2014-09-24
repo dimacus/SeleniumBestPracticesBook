@@ -7,10 +7,50 @@
     <file path="/CheeseFinderTests.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410376671736" ignored="false" />
     <file path="/pom.xml" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410375974187" ignored="false" />
     <file path="$USER_HOME$/Dropbox/Presentations/20014/workshop/.idea/workspace.xml" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410376308062" ignored="false" />
-    <file path="/ProductReviewTests.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410459159675" ignored="false" />
+    <file path="/ProductReviewTests.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1411580231211" ignored="false" />
     <file path="/TestData.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410459116422" ignored="false" />
     <file path="/YAMLFixtures.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410441617791" ignored="false" />
     <file path="/JSONFixtures.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410458481061" ignored="false" />
+    <file path="/ProductValidationTest.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410461273911" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/test/java/com/groupon/seleniumgridextras/videorecording/VideoRecorderCallableTest.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410789141381" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/main/java/com/groupon/seleniumgridextras/config/DefaultConfig.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410898502443" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/main/java/com/groupon/seleniumgridextras/grid/proxies/SetupTeardownProxy.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410795451236" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/main/java/com/groupon/seleniumgridextras/tasks/VideoRecorder.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410899920773" ignored="false" />
+    <file path="/VideoRecorder.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410897664007" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/log/log.out" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410883114762" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/selenium_grid_extras_config.json.example" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410899882197" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/main/java/com/groupon/seleniumgridextras/videorecording/VideoRecorderCallable.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410881160999" ignored="false" />
+    <file path="/VideoRecorderCallable.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410881011155" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/pom.xml" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410890444026" ignored="false" />
+    <file path="/Dummy.txt" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410900266525" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/main/java/com/groupon/seleniumgridextras/videorecording/VideoRecordingThreadPool.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410899830413" ignored="false" />
+    <file path="/VideoRecordingThreadPool.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410899809787" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/log/node_5555.log" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410796415596" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/log/log.out" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410796496300" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/main/java/com/groupon/seleniumgridextras/config/Config.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410882997829" ignored="false" />
+    <file path="/Config.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410882985224" ignored="false" />
+    <file path="/DefaultConfig.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410889762548" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/main/java/com/groupon/seleniumgridextras/config/VideoRecordingOptions.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410889963408" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/test/java/com/groupon/seleniumgridextras/RebootNodeTest.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410880629888" ignored="false" />
+    <file path="/RebootNodeTest.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410879197664" ignored="false" />
+    <file path="/VideoRecordingOptions.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410889723068" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/License.txt" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410881169660" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/main/java/com/groupon/seleniumgridextras/config/FirstTimeRunConfig.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410882997829" ignored="false" />
+    <file path="/FirstTimeRunConfig.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410882976152" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/test/java/com/groupon/seleniumgridextras/videorecording/ImageProcessorTest.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410890763754" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/main/java/com/groupon/seleniumgridextras/videorecording/ImageProcessor.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410889751556" ignored="false" />
+    <file path="/a.dummy" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410888519297" ignored="false" />
+    <file path="/ImageProcessorTest.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410889577939" ignored="false" />
+    <file path="/ImageProcessor.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410889747676" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/main/resources/log4j.properties" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410891255818" ignored="false" />
+    <file path="/log4j.properties" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410891255818" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/main/java/com/groupon/seleniumgridextras/SeleniumGridExtras.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410899914301" ignored="false" />
+    <file path="/SeleniumGridExtras.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410899018492" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/SeleniumGridExtras/src/main/java/com/groupon/seleniumgridextras/videorecording/VideoShutdownHook.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410899990276" ignored="false" />
+    <file path="/VideoShutdownHook.java" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410899230176" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/log/grid_extras.log" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410899882197" ignored="false" />
+    <file path="$PROJECT_DIR$/../../grid/Selenium-Grid-Extras/CHANGELOG.txt" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410900251582" ignored="false" />
+    <file path="/CHANGELOG.txt" changelist="aed09bd8-a850-49ab-84d2-43354f98b547" time="1410900251582" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,14 +111,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ProductReviewTests.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/chapter4/ProductReviewTests.java">
+      <file leaf-file-name="ProductValidationTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/chapter4/ProductValidationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="85" selection-start="1256" selection-end="1256" vertical-scroll-proportion="0.57831323">
+            <state line="16" column="31" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#764#780#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="48" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductReviewTests.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/chapter2/ProductReviewTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="45" selection-start="1638" selection-end="1638" vertical-scroll-proportion="0.9269663">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YAMLFixtures.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/chapter4/YAMLFixtures.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="75" selection-end="304" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -86,11 +154,17 @@
       <file leaf-file-name="TestData.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/chapter4/TestData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="63" selection-start="1157" selection-end="1157" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1303#1319#0" expanded="true" />
-              </folding>
+            <state line="59" column="16" selection-start="1646" selection-end="1665" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductReviewTests.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/chapter4/ProductReviewTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="55" selection-start="612" selection-end="669" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,13 +180,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/chapter1/CheeseFinderTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/chapter2/ProductReviewTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/chapter3/ProductReviewTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/chapter4/YAMLFixtures.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/chapter4/JSONFixtures.java" />
         <option value="$PROJECT_DIR$/src/test/java/chapter4/TestData.java" />
         <option value="$PROJECT_DIR$/src/test/java/chapter4/ProductReviewTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter4/JSONFixtures.java" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter4/ProductValidationTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter2/ProductReviewTests.java" />
       </list>
     </option>
   </component>
@@ -152,9 +227,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="83" />
+    <option name="x" value="78" />
     <option name="y" value="22" />
-    <option name="width" value="1239" />
+    <option name="width" value="2482" />
     <option name="height" value="1276" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -183,8 +258,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -222,6 +295,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaExamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -349,27 +448,73 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.ProductReviewTests">
-    <configuration default="false" name="CheeseFinderTests.testFindSomeCheese" type="JUnit" factoryName="JUnit" temporary="true">
+  <component name="RunManager" selected="JUnit.chapter2 in JavaExamples">
+    <configuration default="false" name="ProductValidationTest.testAllProductsWithFixtures" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="JavaExamples" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="chapter4" />
+      <option name="MAIN_CLASS_NAME" value="chapter4.ProductValidationTest" />
+      <option name="METHOD_NAME" value="testAllProductsWithFixtures" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="chapter4 in JavaExamples" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="JavaExamples" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="chapter4" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="chapter1 in JavaExamples" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="JavaExamples" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="chapter1" />
-      <option name="MAIN_CLASS_NAME" value="chapter1.CheeseFinderTests" />
-      <option name="METHOD_NAME" value="testFindSomeCheese" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -384,70 +529,42 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="ProductReviewTests.testAddingADuplicateReview" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="chapter2 in JavaExamples" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="JavaExamples" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="chapter2" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="chapter3 in JavaExamples" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="JavaExamples" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="chapter3" />
-      <option name="MAIN_CLASS_NAME" value="chapter3.ProductReviewTests" />
-      <option name="METHOD_NAME" value="testAddingADuplicateReview" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ProductReviewTests.testAddNewReview" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="JavaExamples" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="chapter4" />
-      <option name="MAIN_CLASS_NAME" value="chapter4.ProductReviewTests" />
-      <option name="METHOD_NAME" value="testAddNewReview" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ProductReviewTests" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="JavaExamples" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="chapter4" />
-      <option name="MAIN_CLASS_NAME" value="chapter4.ProductReviewTests" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -458,13 +575,7 @@
       </option>
       <envs />
       <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -545,19 +656,20 @@
       <patterns />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CheeseFinderTests.testFindSomeCheese" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ProductReviewTests.testAddingADuplicateReview" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ProductReviewTests.testAddNewReview" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ProductReviewTests" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ProductValidationTest.testAllProductsWithFixtures" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.chapter4 in JavaExamples" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.chapter1 in JavaExamples" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.chapter2 in JavaExamples" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.chapter3 in JavaExamples" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ProductReviewTests" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ProductReviewTests.testAddNewReview" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ProductReviewTests.testAddNewReview" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ProductReviewTests.testAddingADuplicateReview" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ProductReviewTests" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.chapter2 in JavaExamples" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.chapter4 in JavaExamples" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.chapter3 in JavaExamples" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.chapter1 in JavaExamples" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ProductValidationTest.testAllProductsWithFixtures" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -576,28 +688,28 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="83" y="22" width="1239" height="1276" extended-state="0" />
+    <frame x="78" y="22" width="2482" height="1276" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39965397" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958478" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958478" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942164" sideWeight="0.600346" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28918692" sideWeight="0.6704152" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32958478" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32922825" sideWeight="0.6401384" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14162561" sideWeight="0.6401384" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35986158" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -665,25 +777,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaExamples.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/chapter1/CheeseFinderTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="13" selection-start="220" selection-end="220" vertical-scroll-proportion="0.13297872">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/chapter2/ProductReviewTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="84" selection-start="1247" selection-end="1278" vertical-scroll-proportion="0.42553192">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -699,9 +795,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/chapter5/ProductReviewTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="31" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/chapter4/ProductReviewTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="55" selection-start="612" selection-end="669" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="23" selection-start="2358" selection-end="2358" vertical-scroll-proportion="0.34710744" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/internal/runners/statements/RunAfters.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="14" selection-start="602" selection-end="602" vertical-scroll-proportion="0.2866242" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar!/com/google/gson/internal/StringMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="11" selection-start="1537" selection-end="1537" vertical-scroll-proportion="0.3455414" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="312" column="11" selection-start="14442" selection-end="14442" vertical-scroll-proportion="0.33287293">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/chapter4/TestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="16" selection-start="1646" selection-end="1665" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/chapter4/JSONFixtures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="66" selection-start="2296" selection-end="2296" vertical-scroll-proportion="0.025423728">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/chapter4/YAMLFixtures.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="75" selection-end="304" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/chapter4/ProductValidationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="31" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -710,43 +870,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="21" selection-start="2100" selection-end="2100" vertical-scroll-proportion="0.0">
+        <state line="37" column="48" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/chapter4/JSONFixtures.java">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="27" selection-start="5685" selection-end="5685" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="11" column="38" selection-start="382" selection-end="382" vertical-scroll-proportion="0.23400936">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/chapter4/TestData.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/chapter2/ProductReviewTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="63" selection-start="1157" selection-end="1157" vertical-scroll-proportion="0.0">
+        <state line="44" column="45" selection-start="1638" selection-end="1638" vertical-scroll-proportion="0.9269663">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1303#1319#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/chapter4/ProductReviewTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="85" selection-start="1256" selection-end="1256" vertical-scroll-proportion="0.57831323">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#764#780#0" expanded="true" />
           </folding>
         </state>
       </provider>
