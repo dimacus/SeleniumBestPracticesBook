@@ -33,15 +33,19 @@ public class ProductReviewTests {
         .sendKeys("This is a comment for product " + System.getProperty("user.name"));
     selenium.findElement(By.id("submit")).click();
 
+
+    if (!selenium.getCurrentUrl().contains("#")) {
+      System.out.println("Something went wrong with creation of the test");
+      System.exit(1);
+    }
+
     String[] splitString = selenium.getCurrentUrl().split("#");
     String reviewId = splitString[1];
 
     WebElement review = selenium.findElement(By.id(reviewId));
 
-    String
-        name =
-        review.findElement(By.className("comment-author-metainfo")).findElement(By.className("url"))
-            .getText();
+    WebElement metaInfo = review.findElement(By.className("comment-author-metainfo"));
+    String name = metaInfo.findElement(By.className("url")).getText();
     String comment = review.findElement(By.className("comment-content")).getText();//
 
     assertEquals("Dima", name);
@@ -51,7 +55,7 @@ public class ProductReviewTests {
   }
 
   @Test
-  public void testAddingADuplicateReview() throws Exception{
+  public void testAddingADuplicateReview() throws Exception {
 
     WebDriver selenium = new FirefoxDriver();
 

@@ -1,6 +1,5 @@
 package chapter4;
 
-import com.google.gson.internal.StringMap;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.After;
